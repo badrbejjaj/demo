@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "badrbejjaj"
-  }
+  },
   "todos": [
      {"id": 1, "title": "todo title 1", "body": "todo body 1", "completed": false },
      {"id": 2, "title": "todo title 2", "body": "todo body 2",  "completed": false },
